@@ -33,7 +33,7 @@ The project uses an ESP32 microcontroller with an SSD1306 OLED display to create
 | VCC      | 3.3V      |
 | GND      | GND       |
 | SDA      | GPIO 21   |
-| SCL      | GPIO 22   |
+| SCK      | GPIO 22   |
 
 ## Working Principle
 
