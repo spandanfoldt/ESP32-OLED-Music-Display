@@ -15,7 +15,7 @@ The project uses an ESP32 microcontroller with an SSD1306 OLED display to create
 ## Hardware Used
 
 - ESP32 Development Board
-- 0.96 inch OLED Display (SSD1306, I2C)
+- 1.3 inch OLED Display (SSD1306, I2C)
 - Breadboard
 - Jumper wires
 
